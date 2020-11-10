@@ -1,0 +1,15 @@
+Timpi de executie
+
+-- EX 2 --
+
+20000 de elemente, 4 threaduri (hyperthreading)
+
+secvential: 1.75s 
+   paralel: 1.46s
+
+-- EX 4 --
+
+2000 latura matricii, 4 threaduri (hyperthreading)
+
+secvential: 6.23s
+   paralel: 2.69s

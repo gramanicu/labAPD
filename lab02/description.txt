@@ -1,0 +1,1 @@
+Pentru a testa exercitiul 6, am folosit o varianta usor modificata a scriptului "test.sh".

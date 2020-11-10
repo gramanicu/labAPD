@@ -1,0 +1,7 @@
+-- Ex.6 --
+Pentru un vector cu 200000 de valori, timpii de executie au fost:
+- 5.60s - singlethreaded
+- 2.34s - multhithreaded, 2 nuclee, 4 threaduri
+
+Se poate observa o dublare a vitezei. Nu s-a putut obtine o performanta de 4x mai buna,
+datorita hyperthreading-ului.
