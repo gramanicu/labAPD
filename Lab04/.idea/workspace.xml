@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e08fb457-c1c3-4f2f-a7d0-75f6ae1bfcd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jpkDidJSny3nqMJAvbLDhQq7rq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.shortestPath">
+    <configuration name="Bug1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bug1.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bug2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bug2.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bug3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bug3.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bug4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bug4.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bug5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bug5.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coreCount" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="coreCount.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doubleVector" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="doubleVectorElements.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shortestPath" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="shortestPathsFloyd_Warshall.Main" />
+      <module name="skel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bug1" />
+      <item itemvalue="Application.Bug2" />
+      <item itemvalue="Application.Bug3" />
+      <item itemvalue="Application.Bug4" />
+      <item itemvalue="Application.Bug5" />
+      <item itemvalue="Application.doubleVector" />
+      <item itemvalue="Application.shortestPath" />
+      <item itemvalue="Application.coreCount" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e08fb457-c1c3-4f2f-a7d0-75f6ae1bfcd8" name="Default Changelist" comment="" />
+      <created>1604508302558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604508302558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="362" key="#Project_Structure" timestamp="1604510372772">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="362" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1604510372772" />
+    <state x="822" y="659" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604510499061">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="822" y="659" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604510499061" />
+    <state x="1725" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1604514982365">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1604514982365" />
+    <state x="1097" y="788" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604509926441">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="788" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604509926441" />
+    <state x="1216" y="893" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604508316651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1216" y="893" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604508316651" />
+    <state x="1594" y="413" key="FileChooserDialogImpl" timestamp="1604510370737">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1594" y="413" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604510370737" />
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom" timestamp="1604515541756">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604515541756" />
+    <state width="1234" height="398" key="GridCell.Tab.0.center" timestamp="1604515541756">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604515541756" />
+    <state width="1234" height="398" key="GridCell.Tab.0.left" timestamp="1604515541756">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604515541756" />
+    <state width="1234" height="398" key="GridCell.Tab.0.right" timestamp="1604515541756">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604515541756" />
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1604510501644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604510501644" />
+    <state width="1234" height="491" key="GridCell.Tab.1.center" timestamp="1604510501644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604510501644" />
+    <state width="1234" height="491" key="GridCell.Tab.1.left" timestamp="1604510501644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604510501644" />
+    <state width="1234" height="491" key="GridCell.Tab.1.right" timestamp="1604510501644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604510501644" />
+  </component>
+</project>
