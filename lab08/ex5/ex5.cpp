@@ -21,17 +21,30 @@ int main (int argc, char *argv[])
 
     // How many numbers will be sent.
     int send_numbers = 10;
+    int value;
 
     if (rank == 0) {
+        srand(time(NULL));
 
-        // Generate the random numbers.
-        // Generate the random tags.
-        // Sends the numbers with the tags to the second process.
+        for(int i = 0; i < send_numbers; ++i) {
+            // Generate the random numbers.
+            value = rand() % 50 + 1;
+
+            // Generate the random tags.
+            int tag = rand() % 50 + 1;
+
+            // Sends the numbers with the tags to the second process.
+            MPI_Send(&value, 1, MPI_INT, 1, tag, MPI_COMM_WORLD);
+        }
     } else {
+        for(int i = 0; i < send_numbers; ++i) {
+            // Receives the information from the first process.
+            MPI_Status status;
+            MPI_Recv(&value, 1, MPI_INT, ROOT, MPI_ANY_TAG, MPI_COMM_WORLD, &status);
 
-        // Receives the information from the first process.
-        // Prints the numbers with their corresponding tags.
-
+            // Prints the numbers with their corresponding tags.
+            std::cout << "Received value " << value << " with tag " << status.MPI_TAG << "\n";
+        }
     }
 
     MPI_Finalize();

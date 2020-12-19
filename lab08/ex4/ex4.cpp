@@ -21,6 +21,14 @@ int main (int argc, char *argv[])
 
         // The ROOT process receives an element from any source.
         // Prints the element and the source. HINT: MPI_Status.
+        MPI_Status status;
+        int value;
+
+        for(int i = 0; i < 3; ++i) {
+            MPI_Recv(&value, 1, MPI_INT, MPI_ANY_SOURCE, 0, MPI_COMM_WORLD, &status);
+
+            std::cout << "Received " << value << " from Process " << status.MPI_SOURCE << "\n";
+        }
 
     } else {
 
@@ -28,10 +36,10 @@ int main (int argc, char *argv[])
         srand(time(NULL));
         value = rand() % (rank * 50 + 1);
 
-        printf("Process [%d] send %d.\n", rank, value);
+        std::cout << "Process " << rank << " sends " << value << "\n";
 
         // Sends the value to the ROOT process.
-
+        MPI_Send(&value, 1, MPI_INT, ROOT, 0, MPI_COMM_WORLD);
     }
 
     MPI_Finalize();
