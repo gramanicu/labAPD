@@ -17,4 +17,6 @@ This repository contains the solutions for [APD course](https://ocw.cs.pub.ro/co
 
 ## Distributed Algorithms
 
+- Lab08 - MPI Distributed Programming Introduction
+
 © 2020 Grama Nicolae
